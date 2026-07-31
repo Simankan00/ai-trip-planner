@@ -2,7 +2,7 @@
 
 A full-stack, AI-powered travel agent that instantly generates personalized, day-by-day itineraries, cost estimates, and direct booking links based on your specific budget and preferences. 
 
-Try it live here: **[Insert Your Vercel Link Here]**
+Try it live here: **https://ai-trip-planner-sandy-three.vercel.app/**
 
 ## ✨ Features
 * **Personalized Itineraries:** Generates structured, day-by-day travel plans based on source, destination, dates, and interests.
