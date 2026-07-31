@@ -161,7 +161,7 @@ async def chat_endpoint(request: ChatRequest):
     for attempt in range(max_retries):
         try:
             response = client.models.generate_content(
-                model="gemini-1.5-flash",
+                model="gemini-3.5-flash",
                 contents=contents,
                 config=types.GenerateContentConfig(
                     system_instruction=SYSTEM_INSTRUCTION
