@@ -5,7 +5,7 @@ const statusText = document.getElementById('statusText');
 const aiResponseDiv = document.getElementById('aiResponse');
 const deepLinksContainer = document.getElementById('deepLinksContainer');
 
-const BACKEND_URL = 'http://ai-trip-planner-xzm0.onrender.com//api/chat';
+const BACKEND_URL = 'https://ai-trip-planner-xzm0.onrender.com//api/chat';
 
 form.addEventListener('submit', async (e) => {
     e.preventDefault(); // Stop page from refreshing
